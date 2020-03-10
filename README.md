@@ -12,4 +12,4 @@ Inside of my repository, I have created and used it the two folder which is **js
 # Demo Screenshot
 ![Demo: What I did so! ](https://i.imgur.com/pTrcOof.jpg)
 
-- I will try to live on server if I have much time.
+- I will try to live on my server if I have much time.
